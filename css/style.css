@@ -372,7 +372,7 @@ img {
 }
 .first {
   height: 765px;
-  background-image: url("/image/garrett-parker-DlkF4-dbCOU-unsplash 1.jpg");
+  background-image: url("../image/garrett-parker-DlkF4-dbCOU-unsplash 1.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -399,7 +399,7 @@ img {
 }
 .logo__link {
   display: block;
-  background-image: url("/image/logo.svg");
+  background-image: url("../image/logo.svg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
